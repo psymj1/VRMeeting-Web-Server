@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+valid:
+  Uid: 1
+  FirstName: AFirstName
+  SurName: ASurName
+  Company: ACompany
+  JobTitle: AJobTitil
+  WorkEmail: AWorkEmail@test.com
+  PhoneNum: 01234567890
+  Question1: TestQuestion1
+  Question2: TestQuestion2
+  Question3: TestQuestion3
+  Answer1: TestAnswer1
+  Answer2: TestAnswer2
+  Answer3: TestAnswer3
+  AvatarID: 1
+
+valid2:
+  Uid: 2
+  FirstName: FirstName2
+  SurName: Surname2
+  Company: Company2
+  JobTitle: JobTitle2
+  WorkEmail: AWorkEmail2@test.com
+  PhoneNum: 12345678901
+  Question1: TestQuestion4
+  Question2: TestQuestion5
+  Question3: TestQuestion6
+  Answer1: TestAnswer4
+  Answer2: TestAnswer5
+  Answer3: TestAnswer6
+  AvatarID: 2

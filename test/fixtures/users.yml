@@ -1,0 +1,10 @@
+# #Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+valid:
+  Uid: 1
+  Email: valid@nottingham.ac.uk
+  password_digest: <%= BCrypt::Password.create('MyPass1234') %>
+
+valid2:
+  Uid: 2
+  Email: valid2@nottingham.ac.uk
+  password_digest: <%= BCrypt::Password.create('MyPass1234') %>
